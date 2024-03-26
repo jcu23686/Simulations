@@ -1,0 +1,14 @@
+source leaprc.protein.ff14SB
+source leaprc.GLYCAM_06j-1 
+set default PBRadii mbondi3
+loadAmberPrep cro.prepin
+loadAmberParams frcmod2.cro
+loadAmberParams frcmod1.cro
+ionsff = loadamberparams frcmod.ionsjc_tip3p
+x = loadPDB gfp.pdb
+addIons x Na+ 0
+addIons x Cl- 0
+solvateBox x TIP3PBOX 8.0 iso
+saveAmberParm x gfp.parm7 gfp.rst7
+quit
+

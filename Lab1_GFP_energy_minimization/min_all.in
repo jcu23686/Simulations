@@ -1,0 +1,9 @@
+Constant Volume Minimization of the entire system
+ # Control section
+ &cntrl
+  imin = 1, maxcyc = 25000, ncyc = 500, ntmin = 1,
+  cut = 8.0,
+  ntb =1,
+ /
+END 
+
