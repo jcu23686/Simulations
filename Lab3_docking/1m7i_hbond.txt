@@ -1,0 +1,9 @@
+#0 TYR 37.A OH    #2 RAM 213.A O4   no hydrogen      2.596  N/A
+#0 THR 96.A OG1   #2 RAM 214.A O2   no hydrogen      2.871  N/A
+#2 RAM 213.A O3   #0 ALA 318.B O    no hydrogen      2.951  N/A
+#2 RAM 213.A O4   #0 TYR 37.A OH    no hydrogen      2.596  N/A
+#2 RAM 214.A O2   #0 THR 96.A O     no hydrogen      3.503  N/A
+#2 RAM 214.A O2   #0 THR 96.A OG1   no hydrogen      2.871  N/A
+#2 RAM 214.A O2   #0 GLY 320.B O    no hydrogen      3.109  N/A
+#2 NAG 215.A N2   #0 THR 96.A O     no hydrogen      2.645  N/A
+#2 NAG 215.A O4   #0 GLU 265.B OE1  no hydrogen      2.772  N/A

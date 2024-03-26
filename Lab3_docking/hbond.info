@@ -1,0 +1,144 @@
+Finding intermodel H-bonds
+Constraints relaxed by 0.4 angstroms and 20 degrees
+Models used:
+	#0 scfv_aligned.pdb
+	#1.1 docking_output.pdb
+	#1.2 docking_output.pdb
+	#1.3 docking_output.pdb
+	#1.4 docking_output.pdb
+	#1.5 docking_output.pdb
+	#1.6 docking_output.pdb
+	#1.7 docking_output.pdb
+	#1.8 docking_output.pdb
+	#1.9 docking_output.pdb
+	#1.10 docking_output.pdb
+	#1.11 docking_output.pdb
+	#1.12 docking_output.pdb
+	#1.13 docking_output.pdb
+	#1.14 docking_output.pdb
+	#1.15 docking_output.pdb
+	#1.16 docking_output.pdb
+	#1.17 docking_output.pdb
+	#1.18 docking_output.pdb
+	#1.19 docking_output.pdb
+	#1.20 docking_output.pdb
+	#2 1m7i_full_aligned.pdb
+
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+#0 ASN 35.A ND2   #1.18 0HA 6 O4    no hydrogen      2.984  N/A
+#0 TYR 37.A OH    #1.1 2HA 5 O4     no hydrogen      2.698  N/A
+#0 TYR 37.A OH    #1.4 2HA 5 O4     no hydrogen      2.745  N/A
+#0 TYR 37.A OH    #1.10 2HA 2 O5    no hydrogen      2.934  N/A
+#0 TYR 37.A OH    #1.15 2HA 2 O5    no hydrogen      2.982  N/A
+#0 TYR 37.A OH    #1.16 0HA 6 O4    no hydrogen      3.072  N/A
+#0 TYR 37.A OH    #1.18 2HA 5 O2    no hydrogen      3.144  N/A
+#0 TYR 37.A OH    #2 RAM 213.A O4   no hydrogen      2.596  N/A
+#0 LYS 55.A NZ    #1.16 0HA 6 O3    no hydrogen      3.049  N/A
+#0 LYS 55.A NZ    #1.16 0HA 6 O4    no hydrogen      2.947  N/A
+#0 THR 96.A OG1   #1.1 3HA 4 O2     no hydrogen      3.050  N/A
+#0 THR 96.A OG1   #1.9 0HA 6 O2     no hydrogen      3.018  N/A
+#0 THR 96.A OG1   #1.14 0HA 6 O2    no hydrogen      2.954  N/A
+#0 THR 96.A OG1   #1.17 2HA 2 O4    no hydrogen      3.038  N/A
+#0 THR 96.A OG1   #1.20 2HA 2 O4    no hydrogen      3.263  N/A
+#0 THR 96.A OG1   #2 RAM 214.A O2   no hydrogen      2.871  N/A
+#0 HIS 98.A ND1   #1.5 2HA 5 O2     no hydrogen      3.094  N/A
+#0 HIS 98.A ND1   #1.5 2HA 5 O5     no hydrogen      3.280  N/A
+#0 HIS 98.A ND1   #1.15 0HA 6 O5    no hydrogen      3.306  N/A
+#0 HIS 98.A ND1   #1.16 3YB 3 O5    no hydrogen      3.076  N/A
+#0 HIS 31D.A NE2  #1.4 2HA 2 O3     no hydrogen      3.048  N/A
+#0 HIS 31D.A NE2  #1.7 3YB 3 O4     no hydrogen      3.121  N/A
+#0 HIS 31D.A NE2  #1.10 3YB 3 O2N   no hydrogen      3.045  N/A
+#0 HIS 31D.A NE2  #1.11 2HA 5 O3    no hydrogen      3.125  N/A
+#0 HIS 31D.A NE2  #1.13 3HA 4 O5    no hydrogen      3.212  N/A
+#0 HIS 31D.A NE2  #1.15 3YB 3 O2N   no hydrogen      2.988  N/A
+#0 HIS 31D.A NE2  #1.16 3YB 3 O3    no hydrogen      2.842  N/A
+#0 HIS 31D.A NE2  #1.18 3YB 3 O3    no hydrogen      3.088  N/A
+#0 HIS 31D.A NE2  #1.20 3YB 3 O4    no hydrogen      2.959  N/A
+#0 HIS 31D.A NE2  #1.20 3HA 4 O5    no hydrogen      3.124  N/A
+#0 SER 32E.A OG   #1.6 0HA 6 O4     no hydrogen      3.021  N/A
+#0 SER 32E.A OG   #1.16 3YB 3 O4    no hydrogen      3.024  N/A
+#0 ARG 267.B NH1  #1.6 3HA 4 O2     no hydrogen      3.104  N/A
+#0 ARG 267.B NH1  #1.8 3HA 4 O2     no hydrogen      3.039  N/A
+#0 ARG 267.B NH1  #1.9 3HA 4 O4     no hydrogen      3.099  N/A
+#0 ARG 267.B NH1  #1.10 3HA 4 O2    no hydrogen      3.089  N/A
+#0 ARG 267.B NH1  #1.12 0HA 6 O4    no hydrogen      2.853  N/A
+#0 ARG 267.B NH1  #1.18 2HA 2 O3    no hydrogen      3.164  N/A
+#0 ARG 267.B NH1  #1.18 2HA 2 O4    no hydrogen      3.110  N/A
+#0 ARG 267.B NH1  #1.19 2HA 5 O5    no hydrogen      3.230  N/A
+#0 ARG 267.B NH2  #1.4 3YB 3 O2N    no hydrogen      3.272  N/A
+#0 ARG 267.B NH2  #1.11 3YB 3 O2N   no hydrogen      3.545  N/A
+#0 ARG 267.B NH2  #1.11 2HA 5 O5    no hydrogen      3.361  N/A
+#0 ARG 267.B NH2  #1.19 2HA 5 O5    no hydrogen      3.354  N/A
+#0 ASN 271.B ND2  #1.14 2HA 2 O5    no hydrogen      3.120  N/A
+#0 ASN 271.B ND2  #1.19 2HA 2 O5    no hydrogen      3.112  N/A
+#0 ASN 272.B ND2  #1.19 OME 1 O     no hydrogen      3.321  N/A
+#0 HIS 276.B ND1  #1.3 2HA 5 O2     no hydrogen      3.042  N/A
+#0 HIS 276.B ND1  #1.17 2HA 5 O2    no hydrogen      2.902  N/A
+#0 LYS 282.B NZ   #1.3 2HA 5 O3     no hydrogen      2.797  N/A
+#0 LYS 282.B NZ   #1.7 2HA 5 O4     no hydrogen      3.042  N/A
+#0 LYS 282.B NZ   #1.17 2HA 5 O3    no hydrogen      3.188  N/A
+#0 LYS 282.B NZ   #1.17 0HA 6 O5    no hydrogen      3.226  N/A
+#0 SER 270C.B OG  #1.9 2HA 2 O5     no hydrogen      3.270  N/A
+#0 SER 270C.B OG  #1.11 2HA 2 O5    no hydrogen      3.399  N/A
+#1.1 2HA 2 O3     #0 HIS 31D.A NE2  #1.1 2HA 2 H3O   3.324  2.731
+#1.1 3YB 3 N2     #0 THR 96.A O     #1.1 3YB 3 H2N   3.094  2.188
+#1.2 3HA 4 O4     #0 TYR 37.A OH    #1.2 3HA 4 H4O   2.962  2.178
+#1.2 0HA 6 O3     #0 GLU 265.B OE1  #1.2 0HA 6 H3O   3.029  2.315
+#1.8 2HA 2 O3     #2 RAM 214.A O4   #1.8 2HA 2 H3O   3.143  2.204
+#1.8 3YB 3 O4     #0 GLU 265.B OE1  #1.8 3YB 3 H4O   3.167  2.516
+#1.9 0HA 6 O2     #0 GLY 320.B O    #1.9 0HA 6 H2O   2.908  2.157
+#1.10 0HA 6 O2    #0 GLU 279.B OE1  #1.10 0HA 6 H2O  3.497  2.650
+#1.11 2HA 5 O4    #0 HIS 31D.A NE2  #1.11 2HA 5 H4O  3.169  2.298
+#1.13 3YB 3 O4    #0 HIS 31D.A NE2  #1.13 3YB 3 H4O  3.125  2.221
+#1.14 3HA 4 O4    #2 RAO 216.A O5   #1.14 3HA 4 H4O  2.706  1.773
+#1.15 3HA 4 O2    #2 NAG 215.A O6   #1.15 3HA 4 H2O  3.422  2.694
+#1.15 0HA 6 O2    #2 RAO 216.A O1   #1.15 0HA 6 H2O  3.404  2.717
+#1.17 0HA 6 O3    #0 THR 275.B O    #1.17 0HA 6 H3O  3.011  2.171
+#1.19 2HA 5 O3    #0 HIS 31D.A NE2  #1.19 2HA 5 H3O  3.186  2.299
+#1.19 0HA 6 O2    #0 HIS 98.A O     #1.19 0HA 6 H2O  2.716  2.046
+#1.20 2HA 2 O3    #0 THR 96.A O     #1.20 2HA 2 H3O  3.162  2.680
+#1.20 3HA 4 O2    #0 THR 97.A O     #1.20 3HA 4 H2O  3.211  2.265
+#2 RAM 212.A O2   #1.12 2HA 2 O3    no hydrogen      2.901  N/A
+#2 RAM 212.A O3   #1.2 2HA 2 O2     no hydrogen      2.532  N/A
+#2 RAM 212.A O3   #1.12 2HA 2 O2    no hydrogen      2.994  N/A
+#2 RAM 212.A O4   #1.1 0HA 6 O4     no hydrogen      1.076  N/A
+#2 RAM 213.A O3   #0 ALA 318.B O    no hydrogen      2.951  N/A
+#2 RAM 213.A O4   #0 TYR 37.A OH    no hydrogen      2.596  N/A
+#2 RAM 213.A O4   #1.18 2HA 5 O2    no hydrogen      0.691  N/A
+#2 RAM 214.A O2   #0 THR 96.A O     no hydrogen      3.503  N/A
+#2 RAM 214.A O2   #0 THR 96.A OG1   no hydrogen      2.871  N/A
+#2 RAM 214.A O2   #0 GLY 320.B O    no hydrogen      3.109  N/A
+#2 RAM 214.A O2   #1.1 3HA 4 O2     no hydrogen      0.347  N/A
+#2 RAM 214.A O2   #1.2 3HA 4 O3     no hydrogen      3.381  N/A
+#2 RAM 214.A O2   #1.3 OME 1 O      no hydrogen      3.209  N/A
+#2 RAM 214.A O2   #1.4 3HA 4 O2     no hydrogen      0.931  N/A
+#2 RAM 214.A O2   #1.9 0HA 6 O2     no hydrogen      0.500  N/A
+#2 RAM 214.A O2   #1.12 3HA 4 O3    no hydrogen      3.387  N/A
+#2 RAM 214.A O2   #1.14 2HA 5 O3    no hydrogen      3.243  N/A
+#2 RAM 214.A O2   #1.17 2HA 2 O4    no hydrogen      0.960  N/A
+#2 RAM 214.A O4   #1.4 3HA 4 O4     no hydrogen      0.755  N/A
+#2 RAM 214.A O4   #1.8 2HA 2 O3     no hydrogen      3.143  N/A
+#2 RAM 214.A O4   #1.13 2HA 2 O4    no hydrogen      0.917  N/A
+#2 NAG 215.A N2   #0 THR 96.A O     no hydrogen      2.645  N/A
+#2 NAG 215.A O4   #0 GLU 265.B OE1  no hydrogen      2.772  N/A
+#2 NAG 215.A O4   #1.6 3YB 3 O4     no hydrogen      2.313  N/A
+#2 NAG 215.A O4   #1.8 3YB 3 O4     no hydrogen      2.245  N/A
+#2 NAG 215.A O6   #1.6 3HA 4 O2     no hydrogen      3.200  N/A
+#2 NAG 215.A O6   #1.6 3HA 4 O3     no hydrogen      2.839  N/A
+#2 NAG 215.A O6   #1.7 2HA 5 O5     no hydrogen      2.066  N/A
+#2 NAG 215.A O6   #1.8 3HA 4 O2     no hydrogen      3.367  N/A
+#2 NAG 215.A O6   #1.15 3HA 4 O2    no hydrogen      3.422  N/A
+#2 NAG 215.A O6   #1.18 OME 1 O     no hydrogen      3.424  N/A
+#2 NAG 215.A O6   #1.19 3HA 4 O4    no hydrogen      3.404  N/A
+#2 NAG 215.A O6   #1.20 2HA 5 O5    no hydrogen      2.493  N/A
+#2 RAO 216.A O3   #1.3 3YB 3 O4     no hydrogen      1.443  N/A
+#2 RAO 216.A O3   #1.6 0HA 6 O5     no hydrogen      0.599  N/A
+#2 RAO 216.A O3   #1.7 3YB 3 O4     no hydrogen      1.326  N/A
+#2 RAO 216.A O3   #1.8 3YB 3 O2N    no hydrogen      3.547  N/A
+#2 RAO 216.A O3   #1.10 3YB 3 O2N   no hydrogen      3.005  N/A
+#2 RAO 216.A O3   #1.11 2HA 5 O3    no hydrogen      2.447  N/A
+#2 RAO 216.A O3   #1.15 3YB 3 O2N   no hydrogen      2.815  N/A
+#2 RAO 216.A O4   #1.4 OME 1 O      no hydrogen      1.463  N/A
+#2 RAO 216.A O4   #1.5 2HA 5 O4     no hydrogen      3.015  N/A
+#2 RAO 216.A O4   #1.8 2HA 5 O4     no hydrogen      0.912  N/A
+#2 RAO 216.A O4   #1.17 3YB 3 O4    no hydrogen      1.985  N/A

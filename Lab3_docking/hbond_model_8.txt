@@ -1,0 +1,2 @@
+#0 ARG 267.B NH1  #1.8 3HA 4 O2     no hydrogen      3.039  N/A
+#1.8 3YB 3 O4     #0 GLU 265.B OE1  #1.8 3YB 3 H4O   3.167  2.516

@@ -1,0 +1,2 @@
+#0 HIS 276.B ND1  #1.3 2HA 5 O2     no hydrogen      3.042  N/A
+#0 LYS 282.B NZ   #1.3 2HA 5 O3     no hydrogen      2.797  N/A

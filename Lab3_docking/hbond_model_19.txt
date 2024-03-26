@@ -1,0 +1,6 @@
+#0 ARG 267.B NH1  #1.19 2HA 5 O5    no hydrogen      3.230  N/A
+#0 ARG 267.B NH2  #1.19 2HA 5 O5    no hydrogen      3.354  N/A
+#0 ASN 271.B ND2  #1.19 2HA 2 O5    no hydrogen      3.112  N/A
+#0 ASN 272.B ND2  #1.19 OME 1 O     no hydrogen      3.321  N/A
+#1.19 2HA 5 O3    #0 HIS 31D.A NE2  #1.19 2HA 5 H3O  3.186  2.299
+#1.19 0HA 6 O2    #0 HIS 98.A O     #1.19 0HA 6 H2O  2.716  2.046

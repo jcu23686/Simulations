@@ -1,0 +1,2 @@
+#0 HIS 31D.A NE2  #1.7 3YB 3 O4     no hydrogen      3.121  N/A
+#0 LYS 282.B NZ   #1.7 2HA 5 O4     no hydrogen      3.042  N/A

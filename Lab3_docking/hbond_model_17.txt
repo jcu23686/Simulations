@@ -1,0 +1,5 @@
+#0 THR 96.A OG1   #1.17 2HA 2 O4    no hydrogen      3.038  N/A
+#0 HIS 276.B ND1  #1.17 2HA 5 O2    no hydrogen      2.902  N/A
+#0 LYS 282.B NZ   #1.17 2HA 5 O3    no hydrogen      3.188  N/A
+#0 LYS 282.B NZ   #1.17 0HA 6 O5    no hydrogen      3.226  N/A
+#1.17 0HA 6 O3    #0 THR 275.B O    #1.17 0HA 6 H3O  3.011  2.171

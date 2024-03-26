@@ -1,0 +1,37 @@
+Cluster 1
+1
+4
+Cluster 2
+2
+12
+Cluster 3
+3
+17
+Cluster 4
+5
+8
+Cluster 5
+6
+Cluster 6
+7
+Cluster 7
+9
+Cluster 8
+10
+Cluster 9
+11
+Cluster 10
+13
+Cluster 11
+14
+Cluster 12
+15
+Cluster 13
+16
+Cluster 14
+18
+Cluster 15
+19
+Cluster 16
+20
+END

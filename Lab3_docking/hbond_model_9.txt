@@ -1,0 +1,4 @@
+#0 THR 96.A OG1   #1.9 0HA 6 O2     no hydrogen      3.018  N/A
+#0 ARG 267.B NH1  #1.9 3HA 4 O4     no hydrogen      3.099  N/A
+#0 SER 270C.B OG  #1.9 2HA 2 O5     no hydrogen      3.270  N/A
+#1.9 0HA 6 O2     #0 GLY 320.B O    #1.9 0HA 6 H2O   2.908  2.157

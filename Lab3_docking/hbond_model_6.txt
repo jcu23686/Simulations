@@ -1,0 +1,2 @@
+#0 SER 32E.A OG   #1.6 0HA 6 O4     no hydrogen      3.021  N/A
+#0 ARG 267.B NH1  #1.6 3HA 4 O2     no hydrogen      3.104  N/A

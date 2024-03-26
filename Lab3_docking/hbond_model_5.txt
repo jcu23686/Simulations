@@ -1,0 +1,2 @@
+#0 HIS 98.A ND1   #1.5 2HA 5 O2     no hydrogen      3.094  N/A
+#0 HIS 98.A ND1   #1.5 2HA 5 O5     no hydrogen      3.280  N/A

@@ -1,0 +1,5 @@
+#0 THR 96.A OG1   #1.20 2HA 2 O4    no hydrogen      3.263  N/A
+#0 HIS 31D.A NE2  #1.20 3YB 3 O4    no hydrogen      2.959  N/A
+#0 HIS 31D.A NE2  #1.20 3HA 4 O5    no hydrogen      3.124  N/A
+#1.20 2HA 2 O3    #0 THR 96.A O     #1.20 2HA 2 H3O  3.162  2.680
+#1.20 3HA 4 O2    #0 THR 97.A O     #1.20 3HA 4 H2O  3.211  2.265

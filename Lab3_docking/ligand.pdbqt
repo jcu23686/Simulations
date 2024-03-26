@@ -1,0 +1,136 @@
+REMARK  20 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_2  and  C1_3 
+REMARK    2  A    between atoms: C4_7  and  O4_8 
+REMARK    3  A    between atoms: C3_10  and  O3_11 
+REMARK    4  A    between atoms: C2_13  and  O2_14 
+REMARK    5  A    between atoms: O2_14  and  C1_15 
+REMARK       I    between atoms: C5_17  and  C6_18 
+REMARK    6  A    between atoms: C6_18  and  O6_19 
+REMARK    7  A    between atoms: C4_21  and  O4_22 
+REMARK    8  A    between atoms: C3_24  and  O3_31 
+REMARK       I    between atoms: C2_25  and  N2_26 
+REMARK       I    between atoms: N2_26  and  C2N_28 
+REMARK    9  A    between atoms: O3_31  and  C1_32 
+REMARK   10  A    between atoms: C4_36  and  O4_37 
+REMARK   11  A    between atoms: C3_39  and  O3_43 
+REMARK   12  A    between atoms: C2_40  and  O2_41 
+REMARK   13  A    between atoms: O3_43  and  C1_44 
+REMARK   14  A    between atoms: C4_48  and  O4_49 
+REMARK   15  A    between atoms: C3_51  and  O3_52 
+REMARK   16  A    between atoms: C2_54  and  O2_55 
+REMARK   17  A    between atoms: O2_55  and  C1_56 
+REMARK   18  A    between atoms: C4_60  and  O4_61 
+REMARK   19  A    between atoms: C3_63  and  O3_64 
+REMARK   20  A    between atoms: C2_66  and  O2_67 
+ROOT
+HETATM    1  C1  3hA     4       6.726  10.415 -10.513  1.00  0.00     0.292 C 
+HETATM    2  O5  3hA     4       5.491  10.911 -11.175  1.00  0.00    -0.351 OA
+HETATM    3  C5  3hA     4       5.085  10.297 -12.463  1.00  0.00     0.152 C 
+HETATM    4  C6  3hA     4       3.756  10.934 -12.870  1.00  0.00     0.042 C 
+HETATM    5  C4  3hA     4       6.235  10.454 -13.467  1.00  0.00     0.178 C 
+HETATM    6  C3  3hA     4       7.521   9.841 -12.894  1.00  0.00     0.189 C 
+HETATM    7  C2  3hA     4       7.898  10.419 -11.515  1.00  0.00     0.205 C 
+ENDROOT
+BRANCH   1   8
+HETATM    8  O3  3YB     3       6.559   9.058  -9.953  1.00  0.00    -0.348 OA
+BRANCH   8   9
+HETATM    9  C3  3YB     3       5.585   8.938  -8.839  1.00  0.00     0.183 C 
+HETATM   10  C4  3YB     3       4.519   7.890  -9.225  1.00  0.00     0.180 C 
+HETATM   11  C5  3YB     3       3.531   7.603  -8.080  1.00  0.00     0.179 C 
+HETATM   12  O5  3YB     3       4.314   7.280  -6.872  1.00  0.00    -0.349 OA
+HETATM   13  C6  3YB     3       2.578   6.432  -8.349  1.00  0.00     0.198 C 
+HETATM   14  C1  3YB     3       5.245   8.332  -6.421  1.00  0.00     0.286 C 
+HETATM   15  C2  3YB     3       6.297   8.525  -7.532  1.00  0.00     0.171 C 
+HETATM   16  N2  3YB     3       7.283   9.537  -7.131  1.00  0.00    -0.349 N 
+HETATM   17  H2N 3YB     3       6.910  10.429  -6.836  1.00  0.00     0.163 HD
+HETATM   18  C2N 3YB     3       8.614   9.349  -7.102  1.00  0.00     0.214 C 
+HETATM   19  O2N 3YB     3       9.172   8.309  -7.467  1.00  0.00    -0.274 OA
+HETATM   20  CME 3YB     3       9.439  10.536  -6.570  1.00  0.00     0.117 C 
+BRANCH  10  21
+HETATM   21  O4  3YB     3       3.750   8.403 -10.319  1.00  0.00    -0.390 OA
+HETATM   22  H4O 3YB     3       4.335   8.597 -11.056  1.00  0.00     0.210 HD
+ENDBRANCH  10  21
+BRANCH  14  23
+HETATM   23  O2  2hA     2       5.872   7.962  -5.140  1.00  0.00    -0.346 OA
+BRANCH  23  24
+HETATM   24  C2  2hA     2       4.907   7.827  -4.018  1.00  0.00     0.211 C 
+HETATM   25  C1  2hA     2       4.842   6.322  -3.674  1.00  0.00     0.291 C 
+HETATM   26  O5  2hA     2       5.963   5.927  -2.790  1.00  0.00    -0.351 OA
+HETATM   27  C5  2hA     2       6.288   6.742  -1.600  1.00  0.00     0.152 C 
+HETATM   28  C6  2hA     2       7.513   6.098  -0.947  1.00  0.00     0.042 C 
+HETATM   29  C4  2hA     2       6.495   8.206  -2.033  1.00  0.00     0.178 C 
+HETATM   30  C3  2hA     2       5.302   8.740  -2.841  1.00  0.00     0.183 C 
+BRANCH  25  31
+HETATM   31  O   OME     1       3.518   5.891  -3.169  1.00  0.00    -0.363 OA
+HETATM   32  CH3 OME     1       2.783   6.675  -2.165  1.00  0.00     0.204 C 
+ENDBRANCH  25  31
+BRANCH  29  33
+HETATM   33  O4  2hA     2       6.609   8.999  -0.837  1.00  0.00    -0.390 OA
+HETATM   34  H4O 2hA     2       7.326   8.662  -0.296  1.00  0.00     0.210 HD
+ENDBRANCH  29  33
+BRANCH  30  35
+HETATM   35  O3  2hA     2       5.621  10.049  -3.348  1.00  0.00    -0.390 OA
+HETATM   36  H3O 2hA     2       5.809  10.638  -2.614  1.00  0.00     0.210 HD
+ENDBRANCH  30  35
+ENDBRANCH  23  24
+ENDBRANCH  14  23
+BRANCH  13  37
+HETATM   37  O6  3YB     3       1.644   6.342  -7.265  1.00  0.00    -0.398 OA
+HETATM   38  H6O 3YB     3       2.122   6.239  -6.439  1.00  0.00     0.209 HD
+ENDBRANCH  13  37
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   7  39
+HETATM   39  O2  3hA     4       8.314  11.788 -11.671  1.00  0.00    -0.388 OA
+HETATM   40  H2O 3hA     4       9.020  11.836 -12.321  1.00  0.00     0.210 HD
+ENDBRANCH   7  39
+BRANCH   6  41
+HETATM   41  O3  3hA     4       8.624  10.055 -13.855  1.00  0.00    -0.348 OA
+BRANCH  41  42
+HETATM   42  C1  2hA     5       9.267   8.822 -14.329  1.00  0.00     0.292 C 
+HETATM   43  O5  2hA     5      10.057   8.168 -13.264  1.00  0.00    -0.351 OA
+HETATM   44  C5  2hA     5      11.254   8.890 -12.783  1.00  0.00     0.152 C 
+HETATM   45  C6  2hA     5      11.826   8.078 -11.620  1.00  0.00     0.042 C 
+HETATM   46  C4  2hA     5      12.206   9.101 -13.975  1.00  0.00     0.178 C 
+HETATM   47  C3  2hA     5      11.495   9.809 -15.144  1.00  0.00     0.183 C 
+HETATM   48  C2  2hA     5      10.163   9.139 -15.537  1.00  0.00     0.211 C 
+BRANCH  46  49
+HETATM   49  O4  2hA     5      13.283   9.945 -13.532  1.00  0.00    -0.390 OA
+HETATM   50  H4O 2hA     5      13.725   9.534 -12.786  1.00  0.00     0.210 HD
+ENDBRANCH  46  49
+BRANCH  47  51
+HETATM   51  O3  2hA     5      12.368   9.820 -16.288  1.00  0.00    -0.390 OA
+HETATM   52  H3O 2hA     5      13.192  10.254 -16.057  1.00  0.00     0.210 HD
+ENDBRANCH  47  51
+BRANCH  48  53
+HETATM   53  O2  2hA     5      10.399   7.848 -16.219  1.00  0.00    -0.346 OA
+BRANCH  53  54
+HETATM   54  C1  0hA     6       9.969   7.772 -17.626  1.00  0.00     0.292 C 
+HETATM   55  O5  0hA     6       8.499   7.922 -17.778  1.00  0.00    -0.351 OA
+HETATM   56  C5  0hA     6       7.626   6.850 -17.246  1.00  0.00     0.152 C 
+HETATM   57  C6  0hA     6       6.182   7.263 -17.537  1.00  0.00     0.042 C 
+HETATM   58  C4  0hA     6       8.045   5.498 -17.857  1.00  0.00     0.178 C 
+HETATM   59  C3  0hA     6       9.556   5.251 -17.688  1.00  0.00     0.183 C 
+HETATM   60  C2  0hA     6      10.415   6.421 -18.211  1.00  0.00     0.204 C 
+BRANCH  58  61
+HETATM   61  O4  0hA     6       7.338   4.462 -17.152  1.00  0.00    -0.390 OA
+HETATM   62  H4O 0hA     6       6.393   4.599 -17.247  1.00  0.00     0.210 HD
+ENDBRANCH  58  61
+BRANCH  59  63
+HETATM   63  O3  0hA     6       9.933   4.041 -18.373  1.00  0.00    -0.390 OA
+HETATM   64  H3O 0hA     6       9.404   3.310 -18.043  1.00  0.00     0.210 HD
+ENDBRANCH  59  63
+BRANCH  60  65
+HETATM   65  O2  0hA     6      10.280   6.533 -19.641  1.00  0.00    -0.388 OA
+HETATM   66  H2O 0hA     6      10.544   5.706 -20.052  1.00  0.00     0.210 HD
+ENDBRANCH  60  65
+ENDBRANCH  53  54
+ENDBRANCH  48  53
+ENDBRANCH  41  42
+ENDBRANCH   6  41
+BRANCH   5  67
+HETATM   67  O4  3hA     4       5.892   9.732 -14.663  1.00  0.00    -0.390 OA
+HETATM   68  H4O 3hA     4       5.069  10.076 -15.019  1.00  0.00     0.210 HD
+ENDBRANCH   5  67
+TORSDOF 22

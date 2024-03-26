@@ -1,0 +1,4 @@
+#0 TYR 37.A OH    #1.10 2HA 2 O5    no hydrogen      2.934  N/A
+#0 HIS 31D.A NE2  #1.10 3YB 3 O2N   no hydrogen      3.045  N/A
+#0 ARG 267.B NH1  #1.10 3HA 4 O2    no hydrogen      3.089  N/A
+#1.10 0HA 6 O2    #0 GLU 279.B OE1  #1.10 0HA 6 H2O  3.497  2.650

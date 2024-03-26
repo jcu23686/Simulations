@@ -1,0 +1,6 @@
+#0 TYR 37.A OH    #1.16 0HA 6 O4    no hydrogen      3.072  N/A
+#0 LYS 55.A NZ    #1.16 0HA 6 O3    no hydrogen      3.049  N/A
+#0 LYS 55.A NZ    #1.16 0HA 6 O4    no hydrogen      2.947  N/A
+#0 HIS 98.A ND1   #1.16 3YB 3 O5    no hydrogen      3.076  N/A
+#0 HIS 31D.A NE2  #1.16 3YB 3 O3    no hydrogen      2.842  N/A
+#0 SER 32E.A OG   #1.16 3YB 3 O4    no hydrogen      3.024  N/A

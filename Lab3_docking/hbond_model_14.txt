@@ -1,0 +1,2 @@
+#0 THR 96.A OG1   #1.14 0HA 6 O2    no hydrogen      2.954  N/A
+#0 ASN 271.B ND2  #1.14 2HA 2 O5    no hydrogen      3.120  N/A
